@@ -48,12 +48,6 @@ VideoUnderstand/
 ├── count_squats.py       # CLI для подсчета приседаний 🏋️
 ├── requirements.txt      # Зависимости
 ├── instruction_example.json  # Пример инструкции
-├── WEBCAM_GUIDE.md       # Руководство по веб-камере
-├── RECORD_GUIDE.md       # Запись видео для анализа 🎬
-├── SQUATS_GUIDE.md       # Руководство по счетчику приседаний
-├── PERFORMANCE_GUIDE.md  # Настройка производительности ⚙️
-├── SETTINGS_QUICK.md     # Быстрая настройка ⚡
-├── FPS_VS_INTERVAL.md    # Разница FPS и Interval 💡
 └── .env                  # Конфигурация (API ключи)
 ```
 
