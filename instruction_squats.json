@@ -1,0 +1,18 @@
+{
+  "title": "Приседания",
+  "steps": [
+    {
+      "step_number": 1,
+      "description": "Человек стоит",
+      "expected_duration_seconds": 0.5,
+      "critical": true
+    },
+    {
+      "step_number": 2,
+      "description": "Человек приседает",
+      "expected_duration_seconds": 0.5,
+      "critical": true
+    }
+   
+  ]
+}

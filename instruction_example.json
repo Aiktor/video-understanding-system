@@ -1,0 +1,53 @@
+{
+  "title": "Технология производства гипсовых панелей",
+  "steps": [
+    {
+      "step_number": 1,
+      "description": "Подготовка формы: очистка и смазка формы для заливки",
+      "expected_duration_seconds": 120,
+      "critical": true
+    },
+    {
+      "step_number": 2,
+      "description": "Приготовление гипсового раствора: смешивание гипса с водой",
+      "expected_duration_seconds": 180,
+      "critical": true
+    },
+    {
+      "step_number": 3,
+      "description": "Заливка раствора в форму",
+      "expected_duration_seconds": 60,
+      "critical": true
+    },
+    {
+      "step_number": 4,
+      "description": "Разравнивание поверхности",
+      "expected_duration_seconds": 45,
+      "critical": false
+    },
+    {
+      "step_number": 5,
+      "description": "Ожидание застывания (5-10 минут)",
+      "expected_duration_seconds": 300,
+      "critical": true
+    },
+    {
+      "step_number": 6,
+      "description": "Извлечение панели из формы",
+      "expected_duration_seconds": 120,
+      "critical": true
+    },
+    {
+      "step_number": 7,
+      "description": "Контроль качества: проверка на дефекты",
+      "expected_duration_seconds": 90,
+      "critical": true
+    },
+    {
+      "step_number": 8,
+      "description": "Размещение на стеллаже для окончательной сушки",
+      "expected_duration_seconds": 60,
+      "critical": false
+    }
+  ]
+}
