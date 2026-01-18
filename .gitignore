@@ -45,7 +45,7 @@ Thumbs.db
 desktop.ini
 
 # Тестовые видео и временные файлы
-*.mp4
+# *.mp4
 *.avi
 *.mov
 *.wmv
